@@ -4,7 +4,7 @@
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone https://github.com/amitkumar0198singh/Note-Application.git
     cd Note-Application
     ```
 
