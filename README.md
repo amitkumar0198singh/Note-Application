@@ -42,30 +42,16 @@ This Django-based API allows users to create, retrieve, update, and query notes 
 
 # Features
 
-1. Create a new note: 
-    ```
-    Add new notes to the database.
-    ```
+1. Create a new note: `Add new notes to the database.`
 
-2. Retrieve all notes: 
-    ```
-    Get a list of all notes.
-    ```
+2. Retrieve all notes: `Get a list of all notes.`
 
-3. Retrieve a note by ID: 
-    ```
-    Fetch a specific note by its ID.
-    ```
+3. Retrieve a note by ID: `Fetch a specific note by its ID.`
 
-4. Query notes by title: 
-    ```
-    Search for notes using a title substring.
-    ```
+4. Query notes by title: `Search for notes using a title substring.`
 
-5. Swagger and Redoc documentation:
-    ```
-    Interactive API documentation for ease of use.
-    ```
+5. Swagger and Redoc documentation: `Interactive API documentation for ease of use.`
+
 
 ## API Endpoints
 
